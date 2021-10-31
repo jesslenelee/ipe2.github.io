@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  align: 
+  image: 
+  address: 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+# news: true  # includes a list of news items
+
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+- A platform for undergraduates to understand more about the field of IPE and its relation to developments (past/present) in the global political economy
+- For undergraduates keen to specialise in IPE, the platform can be a community to connect with like-minded undergrads (since there is no formal IPE specialisation at NUS) with the (possible) aim for to create a conducive community for learning from one another and collaboration on research projects and written pieces 
+- Contribution to the platform:
+  - Targeted at developing one’s interest in IPE (based on their academic interest) which might not be possible through academic modules (can be in preparation for an ISM/HT/project related to mods)
+  - The space and opportunity to take charge of one’s personal research project/collaborate with others on anything IPE-related at an undergrad level 
+  - Additional resource to understanding contemporary political-economic developments in the world today 
+  
+# How you can contribute
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
